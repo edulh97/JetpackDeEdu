@@ -35,7 +35,7 @@ Para su desarrollo se han implementado dos campos de ingreso para dos numeros, u
 ![Pantalla Principal](https://github.com/user-attachments/assets/b70faf8d-2cd7-4f72-a4e4-9f8eaccfe6c7)
 
 ### Suma realizada correctamente
-![Suma](![image](https://github.com/user-attachments/assets/7041b412-c656-4507-b03b-2890a8f266ad)
+![Suma](https://github.com/user-attachments/assets/7041b412-c656-4507-b03b-2890a8f266ad)
 
 ### Suma realizada incorrectamente
 ![Suma incorrecta](https://github.com/user-attachments/assets/f3128f98-1f72-4a49-9073-f70c5b0c987d)
